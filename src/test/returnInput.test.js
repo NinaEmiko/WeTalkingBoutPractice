@@ -1,4 +1,4 @@
-const returnInput = require('./returnInput')
+const returnInput = require('../main/returnInput')
 
 test('should return 17 when given 17 as a parameter', () =>{
     expect(returnInput(17)).toBe(17)
