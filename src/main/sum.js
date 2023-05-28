@@ -3,7 +3,7 @@
 //If value assigned to a is 10, and value assigned to b is -5, the function should return 5
 
 function sum(a, b) {
-    return a + b;
+    return null;
 }
 
 module.exports = sum

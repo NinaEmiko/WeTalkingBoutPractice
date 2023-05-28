@@ -3,7 +3,7 @@
 //If the value assigned to input is "Happy", the function should return "Happy"
 
 function returnInput(input) {
-    return input;
+    return null;
 }
 
 module.exports = returnInput
